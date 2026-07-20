@@ -4,6 +4,10 @@
 
 ### Full Stack Developer • AI Enthusiast • Computer Science Student
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nandiprasadkm18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <p>
   <a href="https://www.linkedin.com/in/nandi-prasad-km-bb8157292/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
