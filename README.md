@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Nandiprasad KM
+# Hi 👋, I'm Nandiprasad K M
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=1200&color=00FF99&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;AI+Application+Developer;Building+Scalable+Applications;Keeping+Up+with+Evolving+Technologies" />
 
