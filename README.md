@@ -62,7 +62,7 @@
 
 <div align="center">
 
-> **"Code. Learn. Build. Repeat."**
+**"Code. Learn. Build. Repeat."**
 
 </div>
 
