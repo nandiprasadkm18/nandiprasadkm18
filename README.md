@@ -53,7 +53,7 @@
 
 | Project | Description |
 |---------|-------------|
-| 🛡️ Raksha Setu | AI-powered Cyber Fraud Detection Platform |
+| 🛡️ FraudShield | AI-powered Cyber Fraud Detection Platform |
 | 🚗 Vehicle Inspection System | Full Stack Vehicle Inspection Platform |
 | 🎤 Verbex AI | AI Meeting Intelligence Platform |
 | 🔒 AI DevSecOps Shield | AI-powered Security & Vulnerability Detection |
