@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## ABOUT ME
+**`ABOUT ME`**
 
 </div>
 
@@ -254,13 +254,6 @@ alt="GitHub Statistics"
 </div>
 ```
 
-The headings now follow the visual language you showed:
 
-**`ABOUT ME`**
-**`TECH STACK`**
-**`FEATURED PROJECTS`**
-**`CURRENTLY EXPLORING`**
-**`GITHUB ACTIVITY`**
-**`CONNECT`**
 
 
