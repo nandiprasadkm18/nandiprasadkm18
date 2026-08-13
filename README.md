@@ -34,7 +34,7 @@
 
 <div align="center">
 
-**`ABOUT ME`**
+## ABOUT ME
 
 </div>
 
