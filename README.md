@@ -46,7 +46,7 @@ Currently exploring how intelligent applications can be designed to be **reliabl
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js&perline=10"/>
 
 ### Frontend & Backend
 
@@ -54,11 +54,11 @@ Currently exploring how intelligent applications can be designed to be **reliabl
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,terraform&perline=10"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=10"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=10"/>
 
 </div>
 
