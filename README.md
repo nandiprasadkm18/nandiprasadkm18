@@ -48,7 +48,7 @@ Currently exploring how intelligent applications can be designed to be
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js&perline=10"/>
 
 ### Frontend & Backend
 
@@ -56,11 +56,11 @@ Currently exploring how intelligent applications can be designed to be
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,terraform&perline=10"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=10"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=10"/>
 
 </div>
 
@@ -139,25 +139,36 @@ A full-stack platform for digitizing and managing vehicle inspection workflows.
 
 <div align="center">
 
-`Artificial Intelligence`
+<br>
 
-`LLM Applications`
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LLM%20Applications-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
 
-`Distributed Systems`
+<br><br>
 
-`System Design`
+<img src="https://img.shields.io/badge/Distributed%20Systems-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cloud%20Infrastructure-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
 
-`Cloud Infrastructure`
+<br><br>
 
-`Kubernetes`
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
 
-`DevSecOps`
+<br><br>
 
-`Real-Time Systems`
+<img src="https://img.shields.io/badge/Real--Time%20Systems-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Backend%20Architecture-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
 
-`Backend Architecture`
+<br><br>
 
 </div>
+
 
 ---
 
