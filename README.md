@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 NANDIPRASAD K M
+#  NANDIPRASAD K M
 
 ### `Computer Science Engineer` · `Full-Stack Developer` · `AI Application Builder`
 
