@@ -1,23 +1,27 @@
 <div align="center">
 
-#  NANDI PRASAD K M
+# NANDIPRASAD K M
 
-### `Computer Science Engineer` · `Full-Stack Developer` · `AI Application Builder`
+### `COMPUTER SCIENCE ENGINEER` · `FULL-STACK DEVELOPER` · `AI APPLICATION BUILDER`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=850&lines=Building+intelligent+applications.;AI+%C3%97+Backend+%C3%97+Cloud+%C3%97+DevOps;Turning+ideas+into+working+systems.;Learning.+Building.+Evolving." />
 
 <br><br>
 
 <a href="https://github.com/nandiprasadkm18">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
 </a>
+
+   
 
 <a href="https://www.linkedin.com/in/nandi-prasad-km-bb8157292/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
 </a>
 
+   
+
 <a href="mailto:nandiprasadkm18@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
 </a>
 
 <br><br>
@@ -28,37 +32,55 @@
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-I'm a Computer Science Engineering student focused on building
-**full-stack applications, AI-powered systems, and scalable backend infrastructure.**
+## ABOUT ME
+
+</div>
+
+I'm a Computer Science Engineering student focused on building **full-stack applications, AI-powered systems, and scalable backend infrastructure.**
 
 I enjoy working at the intersection of:
 
-`AI` · `Backend Engineering` · `Cloud` · `DevOps` · `System Design`
+`AI` · `BACKEND ENGINEERING` · `CLOUD` · `DEVOPS` · `SYSTEM DESIGN`
 
-Currently exploring how intelligent applications can be designed to be
-**reliable, scalable, observable, and production-ready.**
+Currently exploring how intelligent applications can be designed to be **reliable, scalable, observable, and production-ready.**
 
 ---
 
-## ⚡ Tech Stack
+<div align="center">
+
+## TECH STACK
+
+</div>
+
+### LANGUAGES
 
 <div align="center">
 
-### Languages
-
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js&perline=10"/>
 
-### Frontend & Backend
+</div>
+
+### FRONTEND & BACKEND
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&perline=10"/>
 
-### Databases & Infrastructure
+</div>
+
+### DATABASES & INFRASTRUCTURE
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=10"/>
 
-### Tools
+</div>
+
+### TOOLS
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=10"/>
 
@@ -66,62 +88,66 @@ Currently exploring how intelligent applications can be designed to be
 
 ---
 
-# 🚀 Featured Projects
+<div align="center">
+
+## FEATURED PROJECTS
+
+</div>
 
 ### 🧠 INTELLCAMP
+
 **The Intelligent Campus Operating System**
 
-A next-generation campus platform combining **real-time communication,
-AI automation, intelligent campus services, and observability.**
+A next-generation campus platform combining **real-time communication, AI automation, intelligent campus services, and observability.**
 
-`React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `WebSockets` · `Docker` · `Kubernetes`
+`React` · `FastAPI` · `PostgreSQL` · `WebSockets` · `Docker`
 
 **Highlights**
 
-- 🎙️ AI lecture transcription
-- 🤖 Intelligent campus automation
-- 📡 Real-time WebSocket communication
-- 🧭 Indoor navigation
-- 📊 AI observability
-- 🔐 Privacy-aware processing
-- ☁️ Hybrid edge-cloud architecture
+* 🎙️ AI lecture transcription
+* 🤖 Intelligent campus automation
+* 📡 Real-time WebSocket communication
+* 🧭 Indoor navigation
+* 📊 AI observability
+* 🔐 Privacy-aware processing
+* ☁️ Hybrid edge-cloud architecture
 
 ---
 
 ### 🛡️ RAKSHA SETU
+
 **Digital Public Safety Intelligence Platform**
 
-An AI-driven platform for **cyber-fraud analysis, threat intelligence,
-network investigation, and geospatial intelligence.**
+An AI-driven platform for **cyber-fraud analysis, threat intelligence, network investigation, and geospatial intelligence.**
 
 `Next.js` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Groq` · `React Flow`
 
 **Highlights**
 
-- 🔍 AI-powered fraud analysis
-- 🕸️ Fraud network intelligence
-- 🗺️ Geospatial threat visualization
-- 🤖 Multimodal AI analysis
-- 🔐 Privacy-first PII redaction
-- 📱 Citizen fraud protection
+* 🔍 AI-powered fraud analysis
+* 🕸️ Fraud network intelligence
+* 🗺️ Geospatial threat visualization
+* 🤖 Multimodal AI analysis
+* 🔐 Privacy-first PII redaction
+* 📱 Citizen fraud protection
 
 ---
 
 ### 🎙️ VERBEX AI
+
 **AI Meeting Intelligence Platform**
 
-Transforms conversations into structured, searchable intelligence using
-**speech recognition and LLM-powered analysis.**
+Transforms conversations into structured, searchable intelligence using **speech recognition and LLM-powered analysis.**
 
 `React` · `FastAPI` · `PostgreSQL` · `Whisper` · `LLMs`
 
 ---
 
 ### 🔒 LABYRINTH FORGE
+
 **AI DevSecOps Shield**
 
-An intelligent security platform designed to detect vulnerabilities through
-**AST-based source-code analysis and automated security intelligence.**
+An intelligent security platform designed to detect vulnerabilities through **AST-based source-code analysis and automated security intelligence.**
 
 `FastAPI` · `React` · `Python` · `AST Analysis` · `DevSecOps`
 
@@ -135,46 +161,43 @@ A full-stack platform for digitizing and managing vehicle inspection workflows.
 
 ---
 
-## 🔬 Currently Exploring
-
 <div align="center">
+
+## CURRENTLY EXPLORING
 
 <br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LLM%20Applications-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CLOUD_INFRASTRUCTURE-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Distributed%20Systems-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/System%20Design-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+<img src="https://img.shields.io/badge/DEVSECOPS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Cloud%20Infrastructure-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
+<img src="https://img.shields.io/badge/REAL--TIME_SYSTEMS-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Real--Time%20Systems-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Backend%20Architecture-0D1117?style=for-the-badge&logoColor=00FF9C&labelColor=0D1117&color=00FF9C"/>
-
-<br><br>
+<img src="https://img.shields.io/badge/BACKEND_ARCHITECTURE-0D1117?style=for-the-badge&labelColor=0D1117&color=00FF9C"/>
 
 </div>
 
-
 ---
 
-# 📈 GitHub Activity
-
 <div align="center">
+
+## GITHUB ACTIVITY
+
+<br>
 
 <a href="https://github.com/nandiprasadkm18">
 
@@ -186,11 +209,7 @@ alt="Nandiprasad GitHub Activity Graph"
 
 </a>
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=nandiprasadkm18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
@@ -202,36 +221,52 @@ alt="GitHub Statistics"
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/nandi-prasad-km-bb8157292/">
-<img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
-</a>
+## CONNECT
 
-<a href="mailto:nandiprasadkm18@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
-</a>
+<br>
 
 <a href="https://github.com/nandiprasadkm18">
 <img src="https://img.shields.io/badge/GITHUB-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
 
-</div>
+   
 
----
+<a href="https://www.linkedin.com/in/nandi-prasad-km-bb8157292/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+</a>
 
-<div align="center">
+   
 
-### `BUILD → BREAK → LEARN → IMPROVE`
+<a href="mailto:nandiprasadkm18@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
 
-<br>
+<br><br>
 
-**Thanks for visiting my profile.**
+`BUILD → BREAK → LEARN → IMPROVE`
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0D1117&height=100&section=footer"/>
 
 </div>
+```
+
+The headings now follow the visual language you showed:
+
+**`ABOUT ME`**
+**`TECH STACK`**
+**`FEATURED PROJECTS`**
+**`CURRENTLY EXPLORING`**
+**`GITHUB ACTIVITY`**
+**`CONNECT`**
+
+instead of the previous `01 //`, emoji, and oversized section styles.
+
+And the stack is now exactly focused on:
+
+**Python · C · C++ · JavaScript · React · Next.js · Node.js · Express · FastAPI · Tailwind · PostgreSQL · MongoDB · Redis · Docker · Git · GitHub · Linux · VS Code**
+
+No Java, TypeScript, Kubernetes, Terraform, or Postman.
