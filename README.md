@@ -30,13 +30,15 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science Engineering student focused on building **full-stack applications, AI-powered systems, and scalable backend infrastructure**.
+I'm a Computer Science Engineering student focused on building
+**full-stack applications, AI-powered systems, and scalable backend infrastructure.**
 
 I enjoy working at the intersection of:
 
 `AI` · `Backend Engineering` · `Cloud` · `DevOps` · `System Design`
 
-Currently exploring how intelligent applications can be designed to be **reliable, scalable, observable, and production-ready.**
+Currently exploring how intelligent applications can be designed to be
+**reliable, scalable, observable, and production-ready.**
 
 ---
 
@@ -46,7 +48,7 @@ Currently exploring how intelligent applications can be designed to be **reliabl
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts&perline=10"/>
 
 ### Frontend & Backend
 
@@ -54,11 +56,11 @@ Currently exploring how intelligent applications can be designed to be **reliabl
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker&perline=10"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,terraform&perline=10"/>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=10"/>
 
 </div>
 
@@ -67,59 +69,59 @@ Currently exploring how intelligent applications can be designed to be **reliabl
 # 🚀 Featured Projects
 
 ### 🧠 INTELLCAMP
-
 **The Intelligent Campus Operating System**
 
-A next-generation campus platform combining **real-time communication, AI automation, intelligent campus services, and observability**.
+A next-generation campus platform combining **real-time communication,
+AI automation, intelligent campus services, and observability.**
 
 `React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `WebSockets` · `Docker` · `Kubernetes`
 
 **Highlights**
 
-* 🎙️ AI lecture transcription
-* 🤖 Intelligent campus automation
-* 📡 Real-time WebSocket communication
-* 🧭 Indoor navigation
-* 📊 AI observability
-* 🔐 Privacy-aware processing
-* ☁️ Hybrid edge-cloud architecture
+- 🎙️ AI lecture transcription
+- 🤖 Intelligent campus automation
+- 📡 Real-time WebSocket communication
+- 🧭 Indoor navigation
+- 📊 AI observability
+- 🔐 Privacy-aware processing
+- ☁️ Hybrid edge-cloud architecture
 
 ---
 
 ### 🛡️ RAKSHA SETU
-
 **Digital Public Safety Intelligence Platform**
 
-An AI-driven platform for **cyber-fraud analysis, threat intelligence, network investigation, and geospatial intelligence**.
+An AI-driven platform for **cyber-fraud analysis, threat intelligence,
+network investigation, and geospatial intelligence.**
 
 `Next.js` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Groq` · `React Flow`
 
 **Highlights**
 
-* 🔍 AI-powered fraud analysis
-* 🕸️ Fraud network intelligence
-* 🗺️ Geospatial threat visualization
-* 🤖 Multimodal AI analysis
-* 🔐 Privacy-first PII redaction
-* 📱 Citizen fraud protection
+- 🔍 AI-powered fraud analysis
+- 🕸️ Fraud network intelligence
+- 🗺️ Geospatial threat visualization
+- 🤖 Multimodal AI analysis
+- 🔐 Privacy-first PII redaction
+- 📱 Citizen fraud protection
 
 ---
 
 ### 🎙️ VERBEX AI
-
 **AI Meeting Intelligence Platform**
 
-Transforms conversations into structured, searchable intelligence using **speech recognition and LLM-powered analysis**.
+Transforms conversations into structured, searchable intelligence using
+**speech recognition and LLM-powered analysis.**
 
 `React` · `FastAPI` · `PostgreSQL` · `Whisper` · `LLMs`
 
 ---
 
 ### 🔒 LABYRINTH FORGE
-
 **AI DevSecOps Shield**
 
-An intelligent security platform designed to detect vulnerabilities through **AST-based source-code analysis and automated security intelligence**.
+An intelligent security platform designed to detect vulnerabilities through
+**AST-based source-code analysis and automated security intelligence.**
 
 `FastAPI` · `React` · `Python` · `AST Analysis` · `DevSecOps`
 
@@ -159,15 +161,19 @@ A full-stack platform for digitizing and managing vehicle inspection workflows.
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
+<a href="https://github.com/nandiprasadkm18">
+
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=nandiprasadkm18&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true&custom_title=NANDIPRASAD.KM%20%E2%80%94%20LIVE%20ACTIVITY&radius=12&height=320"
+src="https://github-readme-activity-graph.vercel.app/graph?username=nandiprasadkm18&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&area_color=00FF9C&hide_border=true&custom_title=NANDIPRASAD.KM%20%E2%80%94%20LIVE%20ACTIVITY&radius=10&height=320&days=31"
 width="100%"
 alt="Nandiprasad GitHub Activity Graph"
 />
+
+</a>
 
 </div>
 
@@ -176,13 +182,36 @@ alt="Nandiprasad GitHub Activity Graph"
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=nandiprasadkm18&theme=transparent&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-width="100%"
-alt="Nandiprasad GitHub Streak"
+src="https://github-readme-stats.vercel.app/api?username=nandiprasadkm18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
+height="180"
+alt="GitHub Statistics"
 />
 
 </div>
 
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nandi-prasad-km-bb8157292/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+</a>
+
+<a href="mailto:nandiprasadkm18@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00FF9C?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
+
+<a href="https://github.com/nandiprasadkm18">
+<img src="https://img.shields.io/badge/GITHUB-00FF9C?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ### `BUILD → BREAK → LEARN → IMPROVE`
 
@@ -192,8 +221,6 @@ alt="Nandiprasad GitHub Streak"
 
 <br>
 
-<a href="https://www.linkedin.com/in/nandi-prasad-km-bb8157292/">
-<img src="https://img.shields.io/badge/LET'S_CONNECT-00FF9C?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:0D1117&height=100&section=footer"/>
 
 </div>
