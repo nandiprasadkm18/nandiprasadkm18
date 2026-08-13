@@ -263,10 +263,4 @@ The headings now follow the visual language you showed:
 **`GITHUB ACTIVITY`**
 **`CONNECT`**
 
-instead of the previous `01 //`, emoji, and oversized section styles.
 
-And the stack is now exactly focused on:
-
-**Python · C · C++ · JavaScript · React · Next.js · Node.js · Express · FastAPI · Tailwind · PostgreSQL · MongoDB · Redis · Docker · Git · GitHub · Linux · VS Code**
-
-No Java, TypeScript, Kubernetes, Terraform, or Postman.
