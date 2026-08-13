@@ -159,19 +159,30 @@ A full-stack platform for digitizing and managing vehicle inspection workflows.
 
 ---
 
-## 📊 GitHub
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandiprasadkm18&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandiprasadkm18&hide_border=true&theme=transparent&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=nandiprasadkm18&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true&custom_title=NANDIPRASAD.KM%20%E2%80%94%20LIVE%20ACTIVITY&radius=12&height=320"
+width="100%"
+alt="Nandiprasad GitHub Activity Graph"
+/>
 
 </div>
 
----
+<br>
 
 <div align="center">
+
+<img
+src="https://streak-stats.demolab.com/?user=nandiprasadkm18&theme=transparent&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+width="100%"
+alt="Nandiprasad GitHub Streak"
+/>
+
+</div>
+
 
 ### `BUILD → BREAK → LEARN → IMPROVE`
 
